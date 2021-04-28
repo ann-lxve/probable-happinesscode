@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Contact</title>
+    </head>
+    <body>
+        <p><a href="index.html">TOP</a> | <a href="portfolio.html">Portfolio</a> | <a href="contact.html">Contact</a></p>
+        <img src="forest_topimg.jpg" alt="森林">
+
+        <form>
+            <label>名前</label> <input type="text" placeholder="本町花子">
+            <br>
+            <label>TEL</label> <input type="tel">
+            <br>
+            <label>メールアドレス</label><input type="checkbox">
+            <br>
+            <label></label><input type="submit">
+
+            <select>
+                <option>大阪            </option>
+                <option>東京              </option>
+            </select>
+            <textarea></textarea>
+
+
+
+        </form>
+
+    </body>
+</html>
